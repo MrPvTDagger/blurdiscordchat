@@ -1,4 +1,4 @@
-//META{"name":"blur","website":"https://github.com/mrpvtdagger","source":"https://github.com/mrpvtdagger"}*//
+//META{"name":"blur","website":"https://github.com/MrPvTDagger/blurdiscordchat","source":"https://raw.githubusercontent.com/MrPvTDagger/blurdiscordchat/master/blurdiscordchat.plugin.js"}*//
 
 class blur {
 	
